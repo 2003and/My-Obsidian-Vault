@@ -116,9 +116,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a21244738fcb837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/UX UI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conspects/Databases.md"
+                "file": "Conspects/UX UI.md"
               }
             }
           },
@@ -227,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conspects/Databases.md",
+                "file": "Conspects/UX UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conspects/Databases.md",
+                "file": "Conspects/UX UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +312,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Conspects/Databases.md"
+                "file": "Conspects/UX UI.md"
               }
             }
           },
@@ -338,8 +350,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88515f5e50229717",
+  "active": "3a21244738fcb837",
   "lastOpenFiles": [
+    "Conspects/Web-Development.md",
+    "Conspects/UX UI.md",
+    "Conspects/Conspects index.md",
+    "Kanban todo list.md",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/rubzy_design.png",
+    "Conspects/Databases.md",
     "Unsorted Attachments/Pasted image 20230816094912.png",
     "Unsorted Attachments/Pasted image 20230913210757.png",
     "Unsorted Attachments/Pasted image 20231012153450.png",
@@ -347,9 +365,6 @@
     "Unsorted Attachments/Pasted image 20231015184135.png",
     "Unsorted Attachments/Pasted image 20231016234208.png",
     "Unsorted Attachments/Screenshot from 2023-05-02 12-04-16.png",
-    "Conspects/Databases.md",
-    "Conspects/Web-Development.md",
-    "Conspects/Conspects index.md",
     "Byte superiority.md",
     "2024-02-09.md",
     "Gamedev/FurShot/Prototype checklist.md",
@@ -359,8 +374,6 @@
     "Modules for Uni Project.md",
     "Pixelart-related things/TDRPG Sprite Checklist.md",
     "Pixelart-related things/Useful info from Art Stuff/WIPs/assorted ideas refrences/Screenshot from 2024-02-06 20-19-14.png",
-    "Pixelart-related things/Useful info from Art Stuff/WIPs/assorted ideas refrences/Screenshot from 2024-02-02 20-41-20.png",
-    "Pixelart-related things/Useful info from Art Stuff/WIPs/assorted ideas refrences/Screenshot from 2024-01-31 19-36-42.png",
     "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/cropped_leaves/128x/vines.xcf",
     "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/cropped_leaves/128x/vines.zip",
     "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/cropped_leaves/128x/ziuGgBLG",
@@ -385,7 +398,6 @@
     "Gamedev/FurShot/Gameplay Loop.md",
     "Gamedev/FurShot/Interesting game mechanics.md",
     "To add on landing.md",
-    "Conspects/Целеполагание.md",
     "Journal/Untitled.canvas",
     "Conspects/Набросок речи.canvas",
     "Conspects/drawings/Untitled.canvas",
