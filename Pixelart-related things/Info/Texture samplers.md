@@ -1,0 +1,11 @@
+Types:
+- point filter
+	- When there's not enough space for two pixels, it takes the color of the pixel, closest to that coordinate
+	- When there's too much space, it (again) takes the colors of the pixels closest to those coordinates
+- bilinear filter
+	- when there's not enough space, it takes the weighted average of the four neighbouring pixels
+	- the same goes for the abundance of space
+- trilinear filter
+	- 
+- anisotropic filter
+	- 

@@ -1,0 +1,9 @@
+- [x] Commander (and his army members)
+- [x] Monster Hunter with a crossbow
+- [x] Amateur alchemist
+- [x] Fairy
+- [ ] Herb collector
+- [ ] Electro-Wizard
+- [ ] Wizard
+- [ ] Paired character - angel and fallen angel
+- [ ] Goblin-vagabond

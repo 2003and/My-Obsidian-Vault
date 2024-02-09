@@ -1,0 +1,16 @@
+- Disproportionately big limbs
+	- ![[dripped black cat.png|200]]
+- Shadowy figure with a glowing face
+	- same picture lol
+- Lack of arms
+	- same picture lol
+- Transparent jelly skin
+	- ![[transparent jelly skin.png|200]]
+	- ![[transparent jelly skin 2.jpg|200]]
+- Patchwork
+	- ![[patchwork.jpeg|350]]
+- Food (also, the example character is extremely cute)
+	- ![[food.jpg|300]] 
+- Glowing dotted tumors
+	- ![[glowing dotted tumors.png|200]]
+- 

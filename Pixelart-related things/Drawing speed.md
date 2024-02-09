@@ -1,0 +1,17 @@
+- Use hotkeys! Memorizing a few of the most commonly used already saves you a bunch of time you would waste searching that damn "Undo" button or that "Marquee" tool. Of course nobody forces you to learn them all at once - try learning one or two every day (or every drawing session, if you feel like it). A few I'd highly suggest memorizing are:
+	- Brush/Pencil hotkey
+	- Eraser hotkey
+	- Brush resize hotkeys
+	- Marquee hotkey
+	- Undo and redo hotkeys
+	- Color picker hotkey
+	- Zoom hotkey
+	- Pan hotkey
+- Draw everyday! Practice, practice and practice, as everyone and everywhere tells you. While the word "practice" _does_ get quite annoying at some point, you have to be honest: the phrase **"Practice makes perfect"** wouldn't exist for no reason, don'cha think? The more you practice - the more skills you acquire and thus the less energy and time you waste while sustaining or increasing the production value.
+	- Challenges like InkTober (or OctoBit, if you like that more) and SwordTember may help you with this! They are hosted one month every year - at least check them out, it's worth it.
+- Observe more! Be it mother nature or the Godsend Pinterest is - anything works for as long as it helps you analyze forms, colors and other stuff, that's the way!
+	- Pixel art works are more preferable if you are learning pixel art, for obvious reasons - you can learn some pixel art specific tricks and techniques from them! But don't give up on regular art - knowing how to translate non-pixel art into pixel art is a great skill to have!
+- Try out a graphical tablet! No need to buy an expensive one right off the gate - a cheap one will do (but if your friends have a thing for drawing too, you can always try to borrow one from them!). In about a week of drawing you will get used to it and will draw much more fluid lines quicker than ever! 
+	- But that doesn't mean mouse won't be a bad option either - a lot of discussion can be made on this topic, especially in pixel art community. That's because tablet gives you more fluidity in lines and mouse gives you more of that sacred per-pixel control which is critical in pixel art.
+	- Besides, nobody restricts you from using both! You can always sketch out a picture using a tablet and then polish the hell out of it using your mouse
+	- If you feel like graphical tablet is way too expensive for you, you can always use [[mobile software]] with a stylus (I'm 95% sure you have a smartphone) - it is not too far away from using a graphical tablet. Also, since we are drawing in pixel art, the stylus doesn't need to recognize a million of pressures, thus being even cheaper (I bought my first mobile stylus from FixPrice for about 1.5$, and when it's time came, i bought a different one for the same price, if not cheaper)

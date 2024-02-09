@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"6c248a61752de5f5","x":-140,"y":-60,"width":250,"height":60,"type":"text","text":"Ассемблерный язык"},
+		{"id":"ea782870687cd1f2","x":-140,"y":100,"width":250,"height":60,"type":"text","text":"Машинный код"},
+		{"id":"e4bb5fa61df5440f","x":-140,"y":-200,"width":250,"height":60,"type":"text","text":"Высокоуровневые языки"},
+		{"id":"66c042093c85cfb6","x":-140,"y":-340,"width":250,"height":60,"type":"text","text":"Очень высокоуровневые языки"},
+		{"id":"ba3faf9cbaf8ab7f","x":-200,"y":0,"width":185,"height":50,"type":"text","text":"Ассемблер"},
+		{"id":"371b032da7bbe764","type":"text","text":"Компилятор","x":-200,"y":-140,"width":185,"height":50},
+		{"id":"1c7a301328737888","type":"text","text":"Интерпретатор","x":-200,"y":-280,"width":185,"height":50},
+		{"id":"573ad00bf04e9e3e","x":180,"y":100,"width":250,"height":60,"type":"text","text":"Компьютер"}
+	],
+	"edges":[
+		{"id":"97377fb8bdfbb0df","fromNode":"66c042093c85cfb6","fromSide":"bottom","toNode":"e4bb5fa61df5440f","toSide":"top"},
+		{"id":"6d37975f5032c9de","fromNode":"e4bb5fa61df5440f","fromSide":"bottom","toNode":"6c248a61752de5f5","toSide":"top"},
+		{"id":"ab36fa59d01c864c","fromNode":"6c248a61752de5f5","fromSide":"bottom","toNode":"ea782870687cd1f2","toSide":"top"},
+		{"id":"c4361c4f3c05429c","fromNode":"ea782870687cd1f2","fromSide":"right","toNode":"573ad00bf04e9e3e","toSide":"left"}
+	]
+}

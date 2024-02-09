@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"eaea2b7c406829b1","x":-160,"y":-40,"width":250,"height":60,"type":"text","text":"Инструкции"},
+		{"id":"55495a0336de5d9b","x":240,"y":-40,"width":250,"height":60,"type":"text","text":"Переменные"},
+		{"id":"7a3b0915417720a5","x":-225,"y":-90,"width":780,"height":50,"type":"text","text":"Память компьютера"},
+		{"id":"48b08c2d4b648529","type":"text","text":"Блок управления","x":-185,"y":80,"width":300,"height":140},
+		{"id":"0eacaa2b7da65c17","x":195,"y":80,"width":340,"height":140,"type":"text","text":"АЛУ"},
+		{"id":"b61ac926708f274a","x":40,"y":280,"width":250,"height":60,"type":"text","text":"Компьютер"},
+		{"id":"760e426cf3c4b3f1","x":-160,"y":380,"width":250,"height":60,"type":"text","text":"ввод"},
+		{"id":"122dd174e03ade98","x":240,"y":380,"width":250,"height":60,"type":"text","text":"вывод"}
+	],
+	"edges":[
+		{"id":"0c7760c0c14c4b1d","fromNode":"55495a0336de5d9b","fromSide":"bottom","toNode":"0eacaa2b7da65c17","toSide":"top","fromEnd":"arrow"},
+		{"id":"3ae620296b7ef9a8","fromNode":"48b08c2d4b648529","fromSide":"top","toNode":"eaea2b7c406829b1","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"4a283324de5a4e07","fromNode":"760e426cf3c4b3f1","fromSide":"top","toNode":"b61ac926708f274a","toSide":"left"},
+		{"id":"71826c73570659ac","fromNode":"b61ac926708f274a","fromSide":"right","toNode":"122dd174e03ade98","toSide":"top"}
+	]
+}

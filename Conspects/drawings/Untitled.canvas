@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9ee28dd78df3e0dc","x":-240,"y":-340,"width":250,"height":60,"type":"text","text":" Приветствие"},
+		{"id":"297e3bb66b41c48a","x":-240,"y":-270,"width":250,"height":60,"type":"text","text":"Ситуация"},
+		{"id":"a67ed8845f5528e6","x":-240,"y":-200,"width":250,"height":70,"type":"text","text":"Развитие ситуации"},
+		{"id":"63e3556cc2e63dd8","x":60,"y":0,"width":250,"height":60,"type":"text","text":"Главная идея"},
+		{"id":"88ba4f9bcd6443f9","x":60,"y":60,"width":250,"height":60,"type":"text","text":"Идея"},
+		{"id":"f65f43248b869112","x":60,"y":120,"width":250,"height":60,"type":"text","text":"Доказательство"}
+	],
+	"edges":[]
+}

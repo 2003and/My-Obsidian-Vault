@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "44ba0a21311030c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1940af2de40de0bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d191d574609d4d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "По системе тестирования для ДГТУ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6cf5ed2e7c00895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "По практике.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bad7165f96eace27",
+    "type": "split",
+    "children": [
+      {
+        "id": "b04afb1aada7a0bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d178f1e221fe1578",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6165beb306bc9a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "babc28c7f17492a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4867eb0ef9a1c09a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d6d3a9645e251b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "780f81cf0c6069d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63b5d93975daccb2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "По практике.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "486b188404de243b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "По практике.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c09fafed557b986",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "945b15758f2df4e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "По практике.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f6cf5ed2e7c00895",
+  "lastOpenFiles": [
+    "По системе тестирования для ДГТУ.md",
+    "По практике.md",
+    "Commercial-like Genshtab.md",
+    "TODO sprites.md",
+    "Gamedev_2023-04-06.md",
+    "Оружие ассистента.md",
+    "Оружие панка.md",
+    "Размеры Спрайтов.md",
+    "Классификация врагов.md",
+    "Конспектики по гейдеву.md",
+    "Отличия от конкурентов.md",
+    "Сам геймплей.md"
+  ]
+}
