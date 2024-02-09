@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#todo",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#obsidian",
+      "color": {
+        "a": 1,
+        "rgb": 7810514
+      }
+    },
+    {
+      "query": "tag:#gamedev",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#pixelart",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#cyberdeck",
+      "color": {
+        "a": 1,
+        "rgb": 11748407
+      }
+    },
+    {
+      "query": "tag:#programming",
+      "color": {
+        "a": 1,
+        "rgb": 3569072
+      }
+    },
+    {
+      "query": "tag:#cooking",
+      "color": {
+        "a": 1,
+        "rgb": 14724178
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.00598958333333,
+  "lineSizeMultiplier": 0.776302083333333,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 0.00939025917115312,
+  "linkDistance": 102,
+  "scale": 0.200225830078125,
+  "close": false
+}

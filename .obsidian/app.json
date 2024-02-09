@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Unsorted Attachments",
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true
+}

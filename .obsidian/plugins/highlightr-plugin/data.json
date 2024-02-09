@@ -1,0 +1,26 @@
+{
+  "highlighterStyle": "realistic",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Red": "#FF5582A6",
+    "Orange": "#FFB86CA6",
+    "Yellow": "#FFF3A3A6",
+    "Maroon": "#570A2B",
+    "Deep-Purple": "#4F0E8F",
+    "Light-Blue": "#5DCCCF",
+    "Lime": "#6CCF5D",
+    "Blue-ish-Black": "#070422",
+    "Light-gray": "#BDBDBD"
+  },
+  "highlighterOrder": [
+    "Yellow",
+    "Deep-Purple",
+    "Maroon",
+    "Orange",
+    "Light-gray",
+    "Red",
+    "Light-Blue",
+    "Lime",
+    "Blue-ish-Black"
+  ]
+}

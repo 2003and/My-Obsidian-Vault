@@ -1,0 +1,24 @@
+{
+  "tag-colors": [
+    {
+      "tagKey": "#organization",
+      "color": "rgba(225, 193, 75, 1)",
+      "backgroundColor": "rgba(232, 195, 63, 0.47)"
+    },
+    {
+      "tagKey": "#productivity",
+      "color": "rgba(238, 119, 119, 1)",
+      "backgroundColor": "rgba(232, 63, 63, 0.57)"
+    },
+    {
+      "tagKey": "#gaming",
+      "color": "",
+      "backgroundColor": "rgba(30, 199, 52, 0.53)"
+    },
+    {
+      "tagKey": "#postponed",
+      "color": "",
+      "backgroundColor": "rgba(47, 97, 146, 0.76)"
+    }
+  ]
+}

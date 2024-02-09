@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbBeaker",
+      "IbGrid",
+      "TiTemplate",
+      "IbAcademicBook",
+      "TiSword"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Gamedev": "SiGodotengine",
+  "Cyberdeck development": "TiHeartRateMonitor",
+  "Conspects": "TiNotebook",
+  "Isaac modding": "SiLua",
+  "javascript": "SiJavascript",
+  "Pixelart-related things": "IbSquare",
+  "Cooking": "SiFireship",
+  "Obsidian Info": "SiObsidian",
+  "Python": "SiPython",
+  "Excalidraw": "TiSword",
+  "Journal": "IbAcademicBook",
+  "Templates": "TiTemplate",
+  "Unsorted Attachments": "TiPolaroid",
+  "Experimenting": "IbBeaker"
+}

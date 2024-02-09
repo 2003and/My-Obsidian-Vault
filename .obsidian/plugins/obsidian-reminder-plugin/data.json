@@ -1,0 +1,110 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Journal/14-10-2023.md": [
+      {
+        "title": "Collect hotkeys for Dmitry Titarenko",
+        "time": "2023-10-26",
+        "rowNumber": 2
+      }
+    ],
+    "Journal/15-10-2023.md": [
+      {
+        "title": "заведи журнал материальных средств",
+        "time": "2023-10-26",
+        "rowNumber": 13
+      }
+    ],
+    "Journal/28-10-2023.md": [
+      {
+        "title": "Start managing your Tumblr",
+        "time": "2023-10-31",
+        "rowNumber": 6
+      }
+    ],
+    "Journal/02-01-2024.md": [
+      {
+        "title": "Landing page on Tilde (or Tilda)",
+        "time": "2024-01-18 16:00",
+        "rowNumber": 3
+      },
+      {
+        "title": "Make a separate e-mail for western-oriented accounts",
+        "time": "2024-01-26 12:00",
+        "rowNumber": 5
+      },
+      {
+        "title": "Learn [[TEMP LIST OF STUFF TO LEARN|a few stuff]] in Obsidian and conspectize profiling (make sure the template for conspects has a \"source\" field)",
+        "time": "2024-01-28 12:00",
+        "rowNumber": 4
+      }
+    ],
+    "Journal/08-01-2024.md": [
+      {
+        "title": "Start making more atomized notes (like, instead of putting every single artwork info in the [[Checklists and ideas for artworks]], make a separate note for each one them)",
+        "time": "2024-01-16",
+        "rowNumber": 1
+      },
+      {
+        "title": "Reorganize your obsidian vault!",
+        "time": "2024-01-16",
+        "rowNumber": 3
+      }
+    ],
+    "Journal/13-01-2024.md": [
+      {
+        "title": "Furshot [[Gamedev/FurShot/Prototype checklist|prototype]] deadline",
+        "time": "2024-02-29 12:00",
+        "rowNumber": 3
+      }
+    ],
+    "Journal/15-01-2024.md": [
+      {
+        "title": "tilde landing page",
+        "time": "2024-01-19 12:00",
+        "rowNumber": 5
+      },
+      {
+        "title": "3 more robobugs stickers",
+        "time": "2024-01-21",
+        "rowNumber": 1
+      }
+    ],
+    "Journal/07-02-2024.md": [
+      {
+        "title": "start integration of your theme into your project",
+        "time": "2024-02-10 12:00",
+        "rowNumber": 5
+      },
+      {
+        "title": "learn to write arrays into databases",
+        "time": "2024-02-10 12:30",
+        "rowNumber": 6
+      },
+      {
+        "title": "make file upload (there is a sample code on the nestjs sample github repo)",
+        "time": "2024-02-10 18:30",
+        "rowNumber": 4
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1696019822153,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1696019811601,
+          "path": "Kanban todo list.md",
+          "title": "General todo list"
+        },
+        {
+          "type": "file",
+          "ctime": 1696020161285,
+          "path": "Gamedev/FurShot/FurShot total todo list.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696055901904,
+          "path": "Cyberdeck development/Constructive/List of parts for assembly.md",
+          "title": "Pixel's parts list"
+        }
+      ],
+      "title": "Todo lists"
+    },
+    {
+      "type": "group",
+      "ctime": 1696020184774,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1696020194150,
+          "path": "Gamedev/FurShot/FurShot index.md",
+          "title": "FurShot index"
+        },
+        {
+          "type": "file",
+          "ctime": 1696020215376,
+          "path": "Gamedev/Kargarez/Commercial-like Genshtab.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696020239054,
+          "path": "Pixelart-related things/Pixelart index.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696020249674,
+          "path": "java and minecraft modding learning/Java index.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696020267974,
+          "path": "Cyberdeck development/Computing/List of basic bash commands.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696020280259,
+          "path": "Cyberdeck development/Programming-related index.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696020287365,
+          "path": "javascript/JavaScript Index.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696020301805,
+          "path": "Conspects/Conspects index.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696092304806,
+          "path": "Cooking/Cooking index.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696414219133,
+          "path": "Obsidian Info/Obsidian index.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696416570491,
+          "path": "Python/Python Index.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696491595476,
+          "path": "Gamedev/Game ideas (Gamedev Index).md"
+        }
+      ],
+      "title": "Index nodes"
+    }
+  ]
+}

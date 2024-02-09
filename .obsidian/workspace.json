@@ -1,0 +1,399 @@
+{
+  "main": {
+    "id": "aa9efbdf17f50c20",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5241a13eeedd2ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e375fd825f69fbce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban todo list.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "84b1bd35460ff434",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pixelart-related things/Checklists and ideas for artworks.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ba722e5fa69dec75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gamedev/Game ideas (Gamedev Index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d04e72a9b824d92a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gamedev/FurShot/Prototype checklist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88d4ddfee185cb1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/TEMP LIST OF STUFF TO LEARN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4257871dbab371e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pixelart-related things/TDRPG Sprite Checklist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5d94c53d41825a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules for Uni Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e695d354e9fb038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88515f5e50229717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/Databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "564f9ab9f06655c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a98cef334a2313a",
+        "type": "tabs",
+        "dimension": 62.64855687606112,
+        "children": [
+          {
+            "id": "2057a54801e07093",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e35b1a24e241e93a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "657a15498792cfcd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f17a618d4ef3115",
+        "type": "tabs",
+        "dimension": 37.351443123938886,
+        "children": [
+          {
+            "id": "9117fc35ac8a111b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conspects/Databases.md"
+              }
+            }
+          },
+          {
+            "id": "e668a14a9756775f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "6da6954c225a43a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "fd93071d968a76bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eaa88431b2730f8",
+        "type": "tabs",
+        "dimension": 58.25123152709361,
+        "children": [
+          {
+            "id": "25c387bbc8b8d6cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conspects/Databases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6eadc391d5ce95c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conspects/Databases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e914fce1836ad69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/GeekTalks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0a2340bfd8b208c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a406835807113a5d",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fe5b350c40c9afd",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "df420c6d91ef7793",
+        "type": "tabs",
+        "dimension": 41.74876847290639,
+        "children": [
+          {
+            "id": "0eef1039d14ff6a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Conspects/Databases.md"
+              }
+            }
+          },
+          {
+            "id": "c806f2999d778bab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "slide-note:Slide Note Block Generator": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "88515f5e50229717",
+  "lastOpenFiles": [
+    "Unsorted Attachments/Pasted image 20230816094912.png",
+    "Unsorted Attachments/Pasted image 20230913210757.png",
+    "Unsorted Attachments/Pasted image 20231012153450.png",
+    "Unsorted Attachments/Pasted image 20231015182958.png",
+    "Unsorted Attachments/Pasted image 20231015184135.png",
+    "Unsorted Attachments/Pasted image 20231016234208.png",
+    "Unsorted Attachments/Screenshot from 2023-05-02 12-04-16.png",
+    "Conspects/Databases.md",
+    "Conspects/Web-Development.md",
+    "Conspects/Conspects index.md",
+    "Byte superiority.md",
+    "2024-02-09.md",
+    "Gamedev/FurShot/Prototype checklist.md",
+    "Journal/13-01-2024.md",
+    "Journal/07-02-2024.md",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/great shades of terrible color combo.png",
+    "Modules for Uni Project.md",
+    "Pixelart-related things/TDRPG Sprite Checklist.md",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/assorted ideas refrences/Screenshot from 2024-02-06 20-19-14.png",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/assorted ideas refrences/Screenshot from 2024-02-02 20-41-20.png",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/assorted ideas refrences/Screenshot from 2024-01-31 19-36-42.png",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/cropped_leaves/128x/vines.xcf",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/cropped_leaves/128x/vines.zip",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/cropped_leaves/128x/ziuGgBLG",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/cropped_leaves/128x/vines_raw.xcf",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/source/vine/vine_v2/vines_raw.xcf",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/cropped_leaves/128x/vines",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/source/vine/vine_v2",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/source/vine/vine_v1",
+    "Pixelart-related things/Useful info from Art Stuff/WIPs/leaves/source/vine",
+    "Pixelart-related things/Interesting character traits.md",
+    "Pixelart-related things/Useful info from Art Stuff/Works/Fin/99_RAW DOCUMENTS/2024/placeholder for tilda.aseprite",
+    "Pixelart-related things/Cheats.md",
+    "Journal/05-02-2024.md",
+    "Pixelart-related things/Pixelart index.md",
+    "Gamedev/FurShot/Useful materials to reverse engineer.md",
+    "Interesting things.md",
+    "Gamedev/FurShot/FurShot index.md",
+    "Gamedev/FurShot/Biopunk-themed games.md",
+    "Gamedev/FurShot/Character cast.md",
+    "Gamedev/FurShot/FurShot total todo list.md",
+    "Gamedev/FurShot/Gamedesign lecture from SniperShy.md",
+    "Gamedev/FurShot/Gameplay Loop.md",
+    "Gamedev/FurShot/Interesting game mechanics.md",
+    "To add on landing.md",
+    "Conspects/Целеполагание.md",
+    "Journal/Untitled.canvas",
+    "Conspects/Набросок речи.canvas",
+    "Conspects/drawings/Untitled.canvas",
+    "Gamedev/TDRPG/Hero sheet template.canvas",
+    "Conspects/Работа высокоуровневых языков.canvas",
+    "Conspects/Работа программ на помпьютере.canvas",
+    "Gamedev Stuff/Gamejams/Space theme requirements.canvas",
+    "Cyberdeck development/Untitled.canvas",
+    "Gamedev Stuff/NOW WE'RE GAMING BOYS😎😎/Untitled.canvas"
+  ]
+}

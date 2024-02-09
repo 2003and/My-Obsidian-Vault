@@ -1,0 +1,28 @@
+{
+  "colorRules": [
+    {
+      "id": "inbox-ffb300",
+      "value": "Isaac modding",
+      "type": "folder",
+      "color": "#ecb589"
+    },
+    {
+      "id": "frontmatter-public-499749",
+      "value": "Cyberdeck development",
+      "type": "folder",
+      "color": "#c32c2c"
+    },
+    {
+      "id": "1695997043933",
+      "value": "Gamedev",
+      "type": "folder",
+      "color": "#46cb15"
+    },
+    {
+      "id": "1696415863407",
+      "value": "Cooking",
+      "type": "folder",
+      "color": "#eec42b"
+    }
+  ]
+}
